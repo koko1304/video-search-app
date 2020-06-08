@@ -2,7 +2,7 @@ const React = require("react");
 const SearchBar = require("./SearchBar");
 const VideosList = require("./VideosList");
 const VideoDetail = require("./VideoDetail");
-const KEY = "AIzaSyBBgisA04JQJNu-mRl0KVgje-XeIhIeHRQ";
+const KEY = "";
 const axios = require("axios");
 
 class App extends React.Component {
